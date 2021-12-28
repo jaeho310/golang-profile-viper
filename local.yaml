@@ -1,0 +1,5 @@
+datasource:
+  dbType: "sqlite3"
+  url: "./local.db"
+server:
+  port: 8080

@@ -1,0 +1,7 @@
+datasource:
+  dbType: "mariadb"
+  url: "211.211.70.70:3306"
+  userName: "test"
+  password: "test"
+server:
+  port: 8395
